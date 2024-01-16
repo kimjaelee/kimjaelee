@@ -4,7 +4,9 @@
 
 <br>
 <br>
-<div align= "right"> <h3>📧 kjh3136352@gmail.com</h3></div>
+<div align= "left"> <h3>📧 email: kjh3136352@gmail.com</h3></div>
+<div align= "left"> <h3>📔 notion: https://www.notion.so/2ca46b7bbdd94d3092224dee830da40d</h3></div>
+
 <br>
 <br>
 
@@ -13,7 +15,6 @@
   <ul>
     <li>
       <h3> 2023.07.05 ~ 2023.11.30 Samsung Software Academy For Youth 10st ( Java Coding Track, * 이수 X )</h3>
-      <h4>* 알고리즘 시험 불합격</h4>
     </li>
   </ul>
 </div>
